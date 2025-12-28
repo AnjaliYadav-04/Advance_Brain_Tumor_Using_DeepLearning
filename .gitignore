@@ -1,0 +1,16 @@
+# Ignore datasets
+augmented_data/
+tumorous_and_nontumorous/
+dataset/
+data/
+
+# Ignore ML model files
+*.h5
+*.keras
+*.weights
+*.ckpt
+*.pb
+
+# Ignore python cache
+__pycache__/
+.ipynb_checkpoints/
