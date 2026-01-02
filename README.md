@@ -45,11 +45,11 @@ Advance_Brain_Tumor_Classification/
 
 ### 🚀 Getting Started
 **1. Clone Repository**
-git clone https://github.com/Chando0185/Advance_Brain_Tumor_Classification.git
-cd Advance_Brain_Tumor_Classification
+- git clone https://github.com/Chando0185/Advance_Brain_Tumor_Classification.git
+- cd Advance_Brain_Tumor_Classification
 
 **2. Install Dependencies**
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 **3. Add Dataset**
 - Create:
@@ -60,7 +60,7 @@ pip install -r requirements.txt
 - Place class-wise MRI images inside.
 
 **4. Run Notebook**
-jupyter notebook
+- jupyter notebook
 
 **Open: Advance DL Project Brain Tumor Image Classification.ipynb**
 
